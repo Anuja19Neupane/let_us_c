@@ -8,7 +8,7 @@ int main()
     num = atoi(str); // atoi is a library function which is  used to convert the string str to an integer.
                      // atoi stands for "ASCII to integer.
 
-    printf("The integer value is: %d\n", num);
+    printf("The integer value : %d\n", num);
 
     return 0;
 }
