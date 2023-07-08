@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "math.h": "c",
+    "stdio.h": "c",
+    "a_factoriL.C": "cpp",
+    "a_factorial.C": "cpp"
+  }
+}
