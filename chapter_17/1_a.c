@@ -48,14 +48,12 @@ int main() {
     };
 
     int numStudents = 3; //maile mathi 3 ota matra students ko detail lekho xu so 
-
     
     printf("Students who joined in 2020:\n");
     printStudentsByYear(students, numStudents, 2020); // yaha year 2020 xa, so year 2020 vako data haru print hunxa
 
     printf("\n");
 
-   
     int rollNumber = 102;
     printf("Student data for Roll Number %d:\n", rollNumber);
     printStudentData(students, numStudents, rollNumber);
